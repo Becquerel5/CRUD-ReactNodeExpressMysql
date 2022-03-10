@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  
+}
+
+.Information {
+  text-align: left;
+  
+  border:solid #04171d;
+
 }
 
 .App-logo {
